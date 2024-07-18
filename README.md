@@ -1,0 +1,1 @@
+This is a very simple form of the Rock Paper Scissors game. It is played in the console against the computer through choosing a item, and the computer randomly generating one of the three items. This is meant to help develope my basics of JS. Soon I might make it into a full fledged web-app instead of playing in the console.
